@@ -1,2 +1,4 @@
 name: Yumian-Cui
 markdown: kramdown
+
+theme: jekyll-theme-modernist
